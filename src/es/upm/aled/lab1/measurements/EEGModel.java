@@ -253,7 +253,7 @@ public class EEGModel {
 			
 		} else {
 			EEGModel eeg = new EEGModel();
-			eeg.createSyntheticData(1000);
+			eeg.createSyntheticData(10000);
 			// TODO
 			
 		}
